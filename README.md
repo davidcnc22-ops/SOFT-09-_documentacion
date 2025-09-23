@@ -1,3 +1,1 @@
-console.log(‘hola mundo’) 
-Este es un ejercicio de uso de
-git y github
+# Este es mi repo para  el curso  SOFT-09 Introducción a la Ing
